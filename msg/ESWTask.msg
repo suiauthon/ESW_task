@@ -1,0 +1,5 @@
+Header header
+
+int32 number
+int32 number_of_prime_numbers
+bool is_perfect_square
